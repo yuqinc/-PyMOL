@@ -13,7 +13,13 @@ https://bit.ly/2Nucezf
 Practical_Pymol_for_Beginners
 https://bit.ly/2BVZAob
 
-Convert pngs to a gif file online, ezgif.com, or imovie app on your mac laptop. 
+PDB files can be found at 
+https://bit.ly/1vARisF
+
+We will be using Crystal structure of Rad4-Rad23 bound to a UV-damaged DNA as an example.
+pdb id is 2QSG 
+
+In order to make a movie, you can convert pngs to a gif file online, ezgif.com, or imovie app on your mac laptop. 
 
 
 
