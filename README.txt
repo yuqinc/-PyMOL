@@ -3,12 +3,17 @@ Feb 28, Thursday 7-8:15PM
 25 W4th Across Courant Tisch 
 C14 Lower Level
 
-install pymol in my laptop
+Install pymol in your laptop
 Registration For Educational-Use-Only PyMOL Builds
-https://pymol.org/edu/?q=educational/ 
+https://bit.ly/2H6B6Mj
 
-https://pymolwiki.org/index.php/Main_Page
-https://www.pymolwiki.org/index.php/Practical_Pymol_for_Beginners
+PyMOL wiki page
+https://bit.ly/2Nucezf
+
+Practical_Pymol_for_Beginners
+https://bit.ly/2BVZAob
+
+Convert pngs to a gif file online, ezgif.com, or imovie app on your mac laptop. 
 
 
 
