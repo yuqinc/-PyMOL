@@ -18,6 +18,7 @@ https://bit.ly/1vARisF
 
 We will be using Crystal structure of Rad4-Rad23 bound to a UV-damaged DNA as an example.
 pdb id is 2QSG 
+https://bit.ly/2TgoetA
 
 In order to make a movie, you can convert pngs to a gif file online, ezgif.com, or imovie app on your mac laptop. 
 
